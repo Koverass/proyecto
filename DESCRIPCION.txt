@@ -1,0 +1,2 @@
+El trabajo es un e-commerce de cursos de programacion
+El trabajo posee un Register / Inicio de Sesion, donde de acuerdo al rol que uno posea, permitira agregar/eliminar cursos, así como tambien agregar o eliminar opciones visibles en el menú
